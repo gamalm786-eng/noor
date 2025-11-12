@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://noor-7o7.pages.dev/sitemap.xml

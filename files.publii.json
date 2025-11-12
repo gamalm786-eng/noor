@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "fa7b72236fc7a70510c0c045ab1d5d18"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "d8535b4976dee7a58c481e72126fdac0"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "b59f115913d3876b06a554a128fee12e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "b2a9bb1a5ee53b5e4a3025c5ca371753"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "23820cc316b28ea243bd1176875d175a"
+    },
+    {
+        "path": "learn-quran-online-from-home-a-complete-guide-to-mastering-quran-recitation-and-understanding-from-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-a-complete-guide-to-mastering-quran-recitation-and-understanding-from-your-home/index.html",
+        "type": "file",
+        "md5": "b904b8137225d6f7c7bb79a4c76fdb4f"
+    },
+    {
+        "path": "learn-quran-online-from-home-the-modern-path-to-mastering-quran-recitation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-the-modern-path-to-mastering-quran-recitation/index.html",
+        "type": "file",
+        "md5": "399c5cfcd545a6e8f607762c957293bc"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-6.png",
+        "type": "file",
+        "md5": "67e7c1712b84c669649e437d843a9e95"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/download-6-2xl.png",
+        "type": "file",
+        "md5": "16c9cb8bf2478cd41e04fc2db24f948f"
+    },
+    {
+        "path": "/media/website/responsive/download-6-lg.png",
+        "type": "file",
+        "md5": "16c9cb8bf2478cd41e04fc2db24f948f"
+    },
+    {
+        "path": "/media/website/responsive/download-6-md.png",
+        "type": "file",
+        "md5": "16c9cb8bf2478cd41e04fc2db24f948f"
+    },
+    {
+        "path": "/media/website/responsive/download-6-sm.png",
+        "type": "file",
+        "md5": "16c9cb8bf2478cd41e04fc2db24f948f"
+    },
+    {
+        "path": "/media/website/responsive/download-6-xl.png",
+        "type": "file",
+        "md5": "16c9cb8bf2478cd41e04fc2db24f948f"
+    },
+    {
+        "path": "/media/website/responsive/download-6-xs.png",
+        "type": "file",
+        "md5": "16c9cb8bf2478cd41e04fc2db24f948f"
+    },
+    {
+        "path": "quran-and-arabic-online-a-modern-path-to-mastering-quran-and-the-arabic-language",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-and-arabic-online-a-modern-path-to-mastering-quran-and-the-arabic-language/index.html",
+        "type": "file",
+        "md5": "e37ab5687d9901648ab6ac81adb99484"
+    },
+    {
+        "path": "quran-and-arabic-online-unlock-knowledge-and-faith-with-digital-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-and-arabic-online-unlock-knowledge-and-faith-with-digital-learning/index.html",
+        "type": "file",
+        "md5": "5334fabebeb24ee975d90c547a6ffbe7"
+    },
+    {
+        "path": "quran-and-arabic-online-your-complete-guide-to-learning-quran-and-arabic-from-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-and-arabic-online-your-complete-guide-to-learning-quran-and-arabic-from-anywhere/index.html",
+        "type": "file",
+        "md5": "4774f3b9fe8dde8e6e4c59f4c5215f51"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "81c5576b6734fc767bea156168a0c624"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "9da3776e1be208878925720554126c0f"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "84825a5b4565f419195155bddc2acb13"
+    }
+]
